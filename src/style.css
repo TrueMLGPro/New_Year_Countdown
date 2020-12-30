@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+.countdown{
+    font-size: 70px;
+}
+canvas{
+    background-color: #000000;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: -1;
+}
+#text{
+    color: #ffffff;;
+}
